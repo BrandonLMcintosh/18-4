@@ -1,0 +1,17 @@
+# fruits
+
+strawberries
+pears
+mangos
+
+# veggies
+
+cellery
+carrots
+kale
+
+# meat
+
+sausage
+beef
+venison
